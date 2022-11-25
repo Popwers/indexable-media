@@ -1,0 +1,2 @@
+msgid "Indexable media ?"
+msgstr "Média Indexable ?"
